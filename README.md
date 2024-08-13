@@ -23,7 +23,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a Public Transport Ticketing System
+- 🔭 I’m currently working on B.Admin
 - 🌱 I’m currently learning Software Development at Power Learn project
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
