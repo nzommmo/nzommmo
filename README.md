@@ -24,8 +24,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on B.Admin
-- 🌱 I’m currently learning Software Development at Power Learn project
+- 🔭 I’m currently working on myself😂
+- 🌱 I’m currently learning Product Management at Product School
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - ⚡ Fun fact: ...
